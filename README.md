@@ -1,3 +1,4 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 ## Sabaa Sanabel Project
 
@@ -31,7 +32,24 @@ Laravel framework work version 8 has been used because of its advanced features 
 
 ## How to Use this Project
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+1. Download the project from git using
+git clone https://github.com/shamsnazli/Seven_Sanabile_Pro.git <br>2 . Download the libraries in the fendor file such as: livewire and Spatie.
+
+## Setup
+#### Database
+.env file
+
+DB_CONNECTION=mysql<br>
+DB_HOST=127.0.0.1<br>
+DB_PORT=3306<br>
+DB_DATABASE=seven_sanabil_project<br>
+DB_USERNAME=root<br>
+DB_PASSWORD=<br>
+
+#### Remember: Create the database before run artisan command.
+
+php artisan migrate<br>
+php artisan db:seed --class=UserLevelsSeeder
 
 ## Code of Conduct
 
