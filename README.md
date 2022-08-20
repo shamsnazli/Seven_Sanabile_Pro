@@ -51,11 +51,13 @@ DB_PASSWORD=<br>
 php artisan migrate<br>
 php artisan db:seed --class=UserLevelsSeeder
 
-## Code of Conduct
+## Dashboard Screen
+![1](https://user-images.githubusercontent.com/92631191/185757188-5cbdd102-68b4-44d7-a3cd-1c3e3eeee041.png)
+![2](https://user-images.githubusercontent.com/92631191/185757192-12da063d-2cff-47c9-961d-b7587df3c54e.png)
+![3](https://user-images.githubusercontent.com/92631191/185757199-50f0de6e-e1f2-41f7-aed2-bbb5d6001d94.png)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Website Screen
+![8](https://user-images.githubusercontent.com/92631191/185757217-3af3140a-8ac2-49bc-86dc-3b83a0168e2c.jpg)
 
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
