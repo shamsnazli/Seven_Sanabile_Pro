@@ -51,7 +51,7 @@ DB_PASSWORD=<br>
 php artisan migrate<br>
 php artisan db:seed --class=UserLevelsSeeder
 
-#### Note:
+## Note:
 ##### Admin login in dashboard:
 Email: admin@gmail.com<br>
 Pass: 123456789
