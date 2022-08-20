@@ -54,7 +54,12 @@ php artisan db:seed --class=UserLevelsSeeder
 ## Dashboard Screen
 ![1](https://user-images.githubusercontent.com/92631191/185757188-5cbdd102-68b4-44d7-a3cd-1c3e3eeee041.png)
 ![2](https://user-images.githubusercontent.com/92631191/185757192-12da063d-2cff-47c9-961d-b7587df3c54e.png)
-![3](https://user-images.githubusercontent.com/92631191/185757199-50f0de6e-e1f2-41f7-aed2-bbb5d6001d94.png)
+![3](https://user-images.githubusercontent.com/92631191/185![10](https://user-images.githubusercontent.com/92631191/185757316-20815129-1a70-4363-8b31-b7baeaeb594c.png)
+![12](https://user-images.githubusercontent.com/92631191/185757320-6bc11f3c-7996-47ea-9e8f-314f6a8a263a.png)
+![13](https://user-images.githubusercontent.com/92631191/185757322-6a4a5008-bed0-44df-b2f5-1e12efcb0ee5.png)
+![15](https://user-images.githubusercontent.com/92631191/185757325-6fb0b0c8-3e74-4a9c-b7d9-29d8d686800e.png)
+![9](https://user-images.githubusercontent.com/92631191/185757327-7ef73a60-4abb-4bb1-b196-8a5f2eae1e1b.png)
+757199-50f0de6e-e1f2-41f7-aed2-bbb5d6001d94.png)
 
 ## Website Screen
 ![8](https://user-images.githubusercontent.com/92631191/185757217-3af3140a-8ac2-49bc-86dc-3b83a0168e2c.jpg)
