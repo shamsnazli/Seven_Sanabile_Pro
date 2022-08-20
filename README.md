@@ -51,6 +51,17 @@ DB_PASSWORD=<br>
 php artisan migrate<br>
 php artisan db:seed --class=UserLevelsSeeder
 
+#### Note:
+##### Admin login in dashboard:
+Email: admin@gmail.com<br>
+Pass: 123456789
+##### Committee login in dashboard:
+Email: committee@gmail.com<br>
+Pass: 123456789
+##### Donor login in dashboard:
+Email: donor@gmail.com<br>
+Pass: 123456789
+
 ## Dashboard Screen
 ![1](https://user-images.githubusercontent.com/92631191/185757188-5cbdd102-68b4-44d7-a3cd-1c3e3eeee041.png)
 ![2](https://user-images.githubusercontent.com/92631191/185757192-12da063d-2cff-47c9-961d-b7587df3c54e.png)
