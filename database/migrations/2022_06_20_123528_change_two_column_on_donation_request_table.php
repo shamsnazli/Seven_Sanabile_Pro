@@ -15,7 +15,7 @@ class ChangeColumnOnDonationRequestTable extends Migration
     {
         Schema::table('donation_requests', function (Blueprint $table) {
             $table->text('image')->nullable()->change();
-            $table->text('available_quantity')->default(0)->change();
+            $table->text('available_quantity')->change()->default(0);
         });
     }
 

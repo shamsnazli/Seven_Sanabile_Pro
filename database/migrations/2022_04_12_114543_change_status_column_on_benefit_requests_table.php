@@ -14,7 +14,7 @@ class ChangeStatusColumnOnBenefitRequestsTable extends Migration
     public function up()
     {
         Schema::table('benefit_requests', function (Blueprint $table) {
-            $table->integer('status')->default(2)->change();
+            $table->integer('status')->change()->default(2);
         });
     }
 
